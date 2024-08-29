@@ -26,7 +26,3 @@ The data can be downloaded from the [OPM Open Data website](https://www.opm.gov/
 4. Rename each file following the format: **FedScope_{Month}Year** (e.g., **FedScope_Dec2023**).
 
 This repository provides scripts and tools to process this data and generate meaningful visualizations and analysis.
-
----
-
-This README should give users a quick understanding of the project’s purpose, data handling, and steps to prepare the data for analysis.
