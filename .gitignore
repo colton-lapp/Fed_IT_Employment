@@ -1,3 +1,10 @@
+# Raw data
+/data 
+/data/raw_data
+
+# My API keys
+api_keys.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
