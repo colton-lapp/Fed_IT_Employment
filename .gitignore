@@ -1,5 +1,6 @@
 # Raw data
-/data/raw_data
+/data/raw_data/FedScope*
+/data/raw_data.zip
 
 # IPUMS files
 /data/processed_data/IPUMS/*.csv 
