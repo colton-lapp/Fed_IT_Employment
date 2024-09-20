@@ -1,6 +1,12 @@
 # Raw data
-/data 
 /data/raw_data
+
+# IPUMS files
+/data/processed_data/IPUMS/*.csv 
+/data/processed_data/IPUMS/*.gz
+
+# Big FedScope data
+/data/processed_data/FedScope*.csv
 
 # My API keys
 api_keys.json
